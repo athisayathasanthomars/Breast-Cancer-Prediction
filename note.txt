@@ -1,0 +1,1 @@
+the dataset have dependent varibale called breast cancer-yes no. predicting that variable. 
